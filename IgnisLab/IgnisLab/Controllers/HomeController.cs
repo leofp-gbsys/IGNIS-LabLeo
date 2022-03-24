@@ -20,6 +20,7 @@ namespace IgnisLab.Controllers
             ViewBag.Message = "Mensaje de prueba!!!";
             ViewBag.Message = "Mensaje de prueba 2.0 !!!";
             ViewBag.Message = "Mensaje de prueba 3.0 !!!";
+            ViewBag.Message = "Mensaje de prueba 5.0 !!!";
 
             return View();
         }
