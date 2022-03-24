@@ -18,6 +18,7 @@ namespace IgnisLab.Controllers
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "Mensaje de prueba!!!";
+            ViewBag.Message = "Mensaje de prueba 2.0 !!!";
 
             return View();
         }
