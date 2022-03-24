@@ -16,6 +16,8 @@ namespace IgnisLab.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Línea de Leo.";
+            ViewBag.Message = "CONFLICTOS";
 
             return View();
         }
